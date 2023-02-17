@@ -1,4 +1,4 @@
-# Maxy
+# Maxy asistant
 import datetime
 import pyttsx3
 import smtplib  # for email send
